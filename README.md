@@ -1,4 +1,4 @@
-# Coursework---Data-Mining-
+Coursework---Data-Mining-
 
  Topics covered in this course:
  
